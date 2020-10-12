@@ -1,0 +1,3 @@
+[submodule "FRAME-models-toolsetup"]
+	path = FRAME-models-toolsetup
+	url = https://github.com/burespe1/FRAME-models-toolsetup.git
